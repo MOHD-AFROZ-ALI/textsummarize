@@ -154,7 +154,6 @@ sympy==1.13.1
 tabulate==0.9.0
 tenacity==9.1.2
 terminado==0.18.1
--e git+https://github.com/MOHD-AFROZ-ALI/textsummarize.git@9ed68dbfb0ef7826a632043719ea7e929fafc5dc#egg=textSummarizer
 texttable==1.7.0
 tinycss2==1.4.0
 tokenizers==0.19.1
@@ -179,3 +178,4 @@ webencodings==0.5.1
 websocket-client==1.8.0
 xxhash==3.5.0
 yarl==1.20.0
+-e git+https://github.com/MOHD-AFROZ-ALI/textsummarize.git@9ed68dbfb0ef7826a632043719ea7e929fafc5dc#egg=textSummarizer
