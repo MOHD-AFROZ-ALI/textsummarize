@@ -1,7 +1,6 @@
 artifacts/
-__pycache__/
-*.pyc
 src/textSummarizer.egg-info/
 *.egg-info/
 
 "artifacts/\nvenv/" 
+logs/

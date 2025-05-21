@@ -70,3 +70,74 @@ x==========x]
 [2025-05-21 16:07:42,993: INFO: main: >>>>>> stage Model Evaluation stage completed <<<<<<
 
 x==========x]
+[2025-05-21 18:03:32,813: INFO: config: PyTorch version 2.5.1+cu121 available.]
+[2025-05-21 18:03:45,504: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-05-21 18:03:45,519: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-05-21 18:03:45,524: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-21 18:03:45,526: INFO: common: created directory at: artifacts]
+[2025-05-21 18:03:45,529: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-05-21 18:03:55,855: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 398C:276D22:6CF8BA:10CDBBA:682E1585
+Accept-Ranges: bytes
+Date: Wed, 21 May 2025 18:03:49 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100024-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1747850629.144354,VS0,VE772
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 892851aa03635487e5b96cadbe191fd820ef0532
+Expires: Wed, 21 May 2025 18:08:49 GMT
+Source-Age: 0
+
+]
+[2025-05-21 18:03:56,349: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-05-21 18:03:56,350: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-05-21 18:03:56,354: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-05-21 18:03:56,358: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-21 18:03:56,361: INFO: common: created directory at: artifacts]
+[2025-05-21 18:03:56,364: INFO: common: created directory at: artifacts/data_validation]
+[2025-05-21 18:03:56,389: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-05-21 18:03:56,390: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2025-05-21 18:03:56,394: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-05-21 18:03:56,398: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-21 18:03:56,401: INFO: common: created directory at: artifacts]
+[2025-05-21 18:03:56,404: INFO: common: created directory at: artifacts/data_transformation]
+[2025-05-21 18:04:01,944: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-05-21 18:04:01,945: INFO: main: *******************]
+[2025-05-21 18:04:01,945: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2025-05-21 18:04:01,950: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-05-21 18:04:01,954: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-21 18:04:01,956: INFO: common: created directory at: artifacts]
+[2025-05-21 18:04:01,958: INFO: common: created directory at: artifacts/model_trainer]
+[2025-05-21 18:12:36,193: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2025-05-21 18:12:36,194: INFO: main: *******************]
+[2025-05-21 18:12:36,195: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2025-05-21 18:12:36,203: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-05-21 18:12:36,210: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-21 18:12:36,214: INFO: common: created directory at: artifacts]
+[2025-05-21 18:12:36,218: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-05-21 18:13:06,812: INFO: rouge_scorer: Using default tokenizer.]
+[2025-05-21 18:13:07,166: INFO: main: >>>>>> stage Model Evaluation stage completed <<<<<<
+
+x==========x]
