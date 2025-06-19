@@ -267,10 +267,10 @@ MIT License © 2024 MOHD AFROZ ALI ([qwjfxnkd.gensparkspace.com][1])
 
 * **MOHD AFROZ ALI** – Aspiring SDE / AIML Intern
 * B.Tech (IT), Muffakham Jah College of Engineering & Technology
-* Email: [mohd.afroz@example.com](mailto:[email protected])
+* Email: [afrozali3001.aa@gmail.com](mailto:[email protected])
 * GitHub & LinkedIn in repo profile
 * Phone: +91 9959786710
-  ([qwjfxnkd.gensparkspace.com][1])
+  
 
 ---
 
