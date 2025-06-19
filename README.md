@@ -253,13 +253,13 @@ We welcome contributions! 🎉
 * Follow PEP 8
 * Add docstrings & tests
 * Ensure CI checks pass
-  ([qwjfxnkd.gensparkspace.com][1])
+ 
 
 ---
 
 ## 🛡️ License
 
-MIT License © 2024 MOHD AFROZ ALI ([qwjfxnkd.gensparkspace.com][1])
+MIT License © 2025 MOHD AFROZ ALI 
 
 ---
 
