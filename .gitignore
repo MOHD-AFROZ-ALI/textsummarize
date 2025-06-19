@@ -8,3 +8,8 @@ __pycache__/
 "artifacts/\nvenv/" 
 logs/
 requirements_gpu.txt
+
+# logs and pycache files
+*.log
+*.pkl
+__pycache__/
