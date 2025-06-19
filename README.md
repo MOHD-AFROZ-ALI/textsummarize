@@ -1,8 +1,3 @@
-Here’s a polished **README.md** for the Text Summarization Project based on the content from the provided link:
-
----
-
-````markdown
 # Text Summarization Project 🚀
 
 **End‑to‑end NLP Pipeline with T5‑Small Transformer**  
@@ -109,7 +104,7 @@ summary = predictor.predict(text)
 print(summary)
 ```
 
-([qwjfxnkd.gensparkspace.com][1])
+
 
 ---
 
